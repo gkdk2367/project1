@@ -171,9 +171,6 @@ section#main_visual p {
   top: 400px;
   font-size: 20px;
 }
-section#cont1 {
-  overflow: hidden;
-}
 section#cont1 h2 {
   text-align: center;
   font-family: "Noto Serif KR", serif;
@@ -354,7 +351,7 @@ section#cont3 .cont3_list dd {
 }
 section#cont4 {
   height: 1450px;
-  background-color: #f5f5f5;
+  background-color: #ebebeb;
   margin-top: 100px;
   padding-top: 100px;
 }
@@ -572,7 +569,6 @@ section#main_visual .main_img_btn li:nth-child(5) {
 
 /* footer */
 footer {
-  border: 1px solid rgb(107, 107, 208);
   height: 220px;
   margin-top: 20px;
   background-color: #c99d9d;
